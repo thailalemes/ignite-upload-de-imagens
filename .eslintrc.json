@@ -36,6 +36,8 @@
     "camelcase": "off",
     "import/no-duplicates": "off",
     "react/jsx-props-no-spreading": "off",
+    "import/newline-after-import": "off",
+    "import/no-extraneous-dependencies": "off",
     "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
